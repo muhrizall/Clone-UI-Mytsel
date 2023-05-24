@@ -1,4 +1,4 @@
-# mytsel
+# Clone Mytsel
 
 Clone UI My-Tsel In Figma
 
