@@ -1,6 +1,9 @@
 # mytsel
 
-A new Flutter project.
+Clone UI My-Tsel In Figma
+
+for reference UI 
+https://www.figma.com/community/file/901556661257999936
 
 ## Getting Started
 
